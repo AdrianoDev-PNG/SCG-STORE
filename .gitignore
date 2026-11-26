@@ -1,0 +1,28 @@
+
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Java / Spring Boot
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Local configuration
+application-local.properties
+
+# Logs
+*.log
+
+# Operating system
+Thumbs.db
+.DS_Store
